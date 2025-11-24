@@ -1,8 +1,9 @@
 {
-    "client_id": "1442458912191152212",
+    "client_id": "1234567890",
     "update_interval": 15,
     "show_cpu": true,
     "show_gpu": true,
     "show_ram": true,
     "show_specs": true
 }
+
